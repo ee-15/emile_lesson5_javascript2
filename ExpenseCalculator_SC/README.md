@@ -10,11 +10,10 @@ Web Application Development
 (Elie Emile)
 
 ### Project Description:
-(In this assignment we used if/ else if statements to make calculations for a tax calculator.)
+(In this assignment we used if/else if statements to make calculations for a tax calculator.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/ee-15/emile_lesson5_javascript2.git)
 
 ### Lessons Learned in the Assignment:
 1. (if/else staements only excute the action if the staement is true.)
