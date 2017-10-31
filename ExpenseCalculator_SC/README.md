@@ -13,7 +13,7 @@ Web Application Development
 (In this assignment we used if/else if statements to make calculations for a tax calculator.)
 
 ### View Project:
-(https://github.com/ee-15/emile_lesson5_javascript2.git)
+(https://ee-15.github.io/emile_lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
 1. (if/else staements only excute the action if the staement is true.)
